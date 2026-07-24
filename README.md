@@ -66,8 +66,7 @@
 ## 🔗 Ссылки
 
 - 🌐 Сайт: **[songhit.ru](https://songhit.ru)**
-- 📺 Дзен: [dzen.ru/songhit](https://dzen.ru)
-- 💬 Telegram: [@songhit](https://t.me)
+- 💬 Telegram: [@songhit](https://t.me/songhitru)
 
 ---
 
